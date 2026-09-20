@@ -1,0 +1,6 @@
+{
+  "name": "VyaparPulse",
+  "description": "Kirana Financial Intelligence and Proactive Cash Flow Management for retail merchants.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
